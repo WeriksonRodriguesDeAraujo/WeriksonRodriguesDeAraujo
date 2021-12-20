@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 ### Hello to my github profile 👋
 <br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WeriksonRodriguesDeAraujo)](https://github.com/anuraghazra/github-readme-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=WeriksonRodriguesDeAraujo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeriksonRodriguesDeAraujo&layout=compact&langs_count=7&theme=dark"/>
 
 ### Languages and Tools:
 
@@ -29,7 +30,9 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp; ...
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![C#](https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=csharp)&nbsp; ...
+
 <br/>
 
 ### Contact:
